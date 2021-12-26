@@ -6,4 +6,4 @@
 
 ### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-46/SVG-Gibson-Firebird-Guitar/index.html
 
-### Codepen: 
+### Codepen: https://codepen.io/vladimirsaenko/pen/QWqOZew
