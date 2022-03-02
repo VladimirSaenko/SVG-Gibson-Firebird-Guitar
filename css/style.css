@@ -54,7 +54,7 @@ svg {
         flex-direction: column;
         margin-bottom: 0px;
         border-radius: 35px;
-        background: linear-gradient(190deg,rgb(46, 196, 182) 23%, rgb(8, 145, 186) 50%);
+        background: turquoise;
         border: rgb(8, 145, 186) 10px solid;
     }
 
